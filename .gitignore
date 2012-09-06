@@ -9,3 +9,6 @@ dist
 /man
 nosetests.xml
 .coverage
+/_ReSharper.PythonReadability
+/*.suo
+/*.suo
